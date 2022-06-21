@@ -71,7 +71,7 @@
       </div>
       <div class="modal-footer">
       	<!-- modal창을 통한 이동시는 url패턴을 이용해서 이동해야 한다. -->
-        <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="location.href='${ctp}/memIdPwdSearch';">아이디/비밀번호찾기</button>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="location.href='${ctp}/member/memIdPwdSearch';">아이디/비밀번호찾기</button>
         <button type="button" class="btn btn-secondary" data-dismiss="modal">닫기</button>
       </div>
     </div>
